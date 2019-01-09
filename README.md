@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+# Able
+Able is a modified transport system for disabled people. 
+With Able, disabled people are transported with comfort such that there's less or no nuisance to them.
 
-You can use the [editor on GitHub](https://github.com/venus1344/dayworker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Inside Story
+Speaking to a challenged individual - a local, of course - who uses crutches for walking. He had an accident for which he was required to cut off the both limbs. The narration goes as the person faced challenges when trying to access public transport. In some cases, there are struggles where the disabled cannot struggle to get the transport service. In another scene, there would be denial since the care they need wouldn't be very much comfortable to accomodate them. In another scene, it would be difficult for the disabled to cross some roads. the disabled interviewed had a second accident when crossing the road. 
 
-### Markdown
+**Able** focuses to provide solution to most of the transport challenges faced by these people.
+Able uses local transport a three-wheeled vehicle, so-called "Bajaji". The Bajaji is designed to have foldable spaces for disabled using wheel chairs. The far-end has a fixed chair for people using crutches and other kinds of disabled. The entry has a ramp or rail to support boarding the bajaji.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -30,8 +32,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/venus1344/dayworker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
