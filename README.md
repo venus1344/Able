@@ -9,30 +9,17 @@ Speaking to a challenged individual - a local, of course - who uses crutches for
 **Able** focuses to provide solution to most of the transport challenges faced by these people.
 Able uses local transport a three-wheeled vehicle, so-called "Bajaji". The Bajaji is designed to have foldable spaces for disabled using wheel chairs. The far-end has a fixed chair for people using crutches and other kinds of disabled. The entry has a ramp or rail to support boarding the bajaji.
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and [Image](https://github.com/venus1344/dayworker/blob/master/IMG_20190109_131240.jpg)
-```
+Below are some of the pictures displaying the prototype (it's not that neat though).
 
 [IMG_20190109_131240](https://github.com/venus1344/dayworker/blob/master/IMG_20190109_131240.jpg)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+[IMG_20190109_131253](https://github.com/venus1344/dayworker/blob/master/IMG_20190109_131253.jpg)
+
+[IMG_20190109_131305](https://github.com/venus1344/dayworker/blob/master/IMG_20190109_131305.jpg)
 
 
-### Support or Contact
+### 
+
+
+### 
 
