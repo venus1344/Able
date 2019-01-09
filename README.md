@@ -28,6 +28,7 @@ Syntax highlighted code block
 [Link](url) and [Image](https://github.com/venus1344/dayworker/blob/master/IMG_20190109_131240.jpg)
 ```
 
+[IMG_20190109_131240](https://github.com/venus1344/dayworker/blob/master/IMG_20190109_131240.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
