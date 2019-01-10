@@ -10,6 +10,7 @@ In another scene, it would be difficult for the disabled to cross some roads. th
 
 ![discross](https://github.com/venus1344/dayworker/blob/master/discross.PNG)
 
+## Idea
 **Able** focuses to provide solution to most of the transport challenges faced by these people.
 Able uses local transport a three-wheeled vehicle, so-called "Bajaji". The Bajaji is designed to have foldable spaces for disabled using wheel chairs. The far-end has a fixed chair for people using crutches and other kinds of disabled. The entry has a ramp or rail to support boarding the bajaji.
 
