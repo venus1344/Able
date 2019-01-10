@@ -14,15 +14,14 @@ Able uses local transport a three-wheeled vehicle, so-called "Bajaji". The Bajaj
 
 Below are some of the pictures displaying the designed prototype. (it's not that neat & clear though).
 
-![IMG_20190109_131240](https://github.com/venus1344/dayworker/blob/master/IMG_20190109_131240.jpg)
+![pr1](https://github.com/venus1344/Able/blob/master/pr1.PNG)
 
-![IMG_20190109_131253](https://github.com/venus1344/dayworker/blob/master/IMG_20190109_131253.jpg)
+![pr2](https://github.com/venus1344/Able/blob/master/pr2.PNG)
 
-![IMG_20190109_131305](https://github.com/venus1344/dayworker/blob/master/IMG_20190109_131305.jpg)
+![pr3](https://github.com/venus1344/Able/blob/master/pr3.PNG)
 
 
 
 Feel free to post issues related to the prototype's design.
  
-
 **Venus** 
