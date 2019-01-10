@@ -21,7 +21,8 @@ Below are some of the pictures displaying the designed prototype. (it's not that
 ![IMG_20190109_131305](https://github.com/venus1344/dayworker/blob/master/IMG_20190109_131305.jpg)
 
 
-###
 
-### 
+Feel free to post issues related to the prototype's design.
+ 
 
+**Venus** 
