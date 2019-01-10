@@ -24,6 +24,7 @@ Below are some of the pictures displaying the designed prototype. (it's not that
 
 
 
+
 Feel free to post issues related to the prototype's design.
  
 **Venus** 
