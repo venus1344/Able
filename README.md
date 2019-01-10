@@ -15,13 +15,13 @@ In another scene, it would be difficult for the disabled to cross some roads. th
 Able uses local transport a three-wheeled vehicle, so-called "Bajaji". The Bajaji is designed to have foldable spaces for disabled using wheel chairs. The far-end has a fixed chair for people using crutches and other kinds of disabled. The entry has a ramp or rail to support boarding the bajaji.
 
 Below are some of the pictures displaying the designed prototype. (it's not that neat & clear though).
-
+```markdown
 ![pr1](https://github.com/venus1344/Able/blob/master/pr1.PNG)
 
 ![pr2](https://github.com/venus1344/Able/blob/master/pr2.PNG)
 
 ![pr3](https://github.com/venus1344/Able/blob/master/pr3.PNG)
-
+```
 
 
 
